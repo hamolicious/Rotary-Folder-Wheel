@@ -1,0 +1,10 @@
+{
+    "window_width" : 500,
+    "window_height" : 500,
+    "icons_folder_path" : "C:/Users/Hamolicious/Documents/Python_Tools/Icons/",
+    "tools_folder_path" : "C:/Users/Hamolicious/Documents/Python_Tools/",
+    "text_size" : 20,
+    "tools_to_ignore" : [
+        "Icons"
+    ]
+}
